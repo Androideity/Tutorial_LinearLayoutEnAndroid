@@ -1,0 +1,9 @@
+Proyecto que muestra las propiedades básicas del contenedor LinearLayout en Android.
+
+- Declaración de un LinearLayout en XML y propiedades básicas.
+- Componentes anidados en un LinearLayout.
+- Propiedades de orientación en un LinearLayout.
+- Modificación de las propiedades del contenedor desde código Java.
+- Eventos a través de un Checkbox.
+
+Ver tutorial: http://androideity.com/2011/07/16/layout-en-android-i-linearlayout/
